@@ -15,7 +15,7 @@ Requirements:
 
 Now this project should be running on your localhost machine!
 
-[Learn more about the project here] ('https://www.youtube.com/watch?v=foM7h-vBahU&feature=emb_title')
+Learn more about the project here:https://www.youtube.com/watch?v=foM7h-vBahU&feature=emb_title
 
 
 Thank you for viewing this project, Let's strive to save our home!

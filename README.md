@@ -1,5 +1,5 @@
-# climatebots
-A climate change activism and social-networking platform that connects like-minded people by promoting positive change.
+# Climate Bots
+A climate change activism and social-networking platform that connects like-minded people by promoting positive change. This project was created using **Django** for the backend, and **HTML**, **CSS**, and **Javascript** for the frontend.
 
 To use this project you must clone it to your computer then in command prompt cd to where this project file is stored. Below is how to access this on your personal machine:
 
@@ -15,7 +15,7 @@ Requirements:
 
 Now this project should be running on your localhost machine!
 
-Learn more about the project here:https://www.youtube.com/watch?v=foM7h-vBahU&feature=emb_title
+Learn more about the project here: https://www.youtube.com/watch?v=foM7h-vBahU&feature=emb_title
 
 
 Thank you for viewing this project, Let's strive to save our home!
